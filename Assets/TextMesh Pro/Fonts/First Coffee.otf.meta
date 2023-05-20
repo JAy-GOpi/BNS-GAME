@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: df714e914bc83a343b8ecbee9de51a67
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - First Coffee
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f2f42901d7fa8cc47b43cf36b4605012, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
